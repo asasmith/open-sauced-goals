@@ -1,31 +1,31 @@
 [
   {
     "full_name": "MostlyAdequate/mostly-adequate-guide",
-    "stargazers_count": 21825,
+    "stargazers_count": 21841,
     "open_issues_count": 82,
-    "forks_count": 1811
+    "forks_count": 1810
   },
   {
     "full_name": "btholt/complete-intro-to-containers",
-    "stargazers_count": 739,
+    "stargazers_count": 740,
     "open_issues_count": 23,
-    "forks_count": 157
+    "forks_count": 158
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 53130,
-    "open_issues_count": 340,
-    "forks_count": 10340
+    "stargazers_count": 53159,
+    "open_issues_count": 324,
+    "forks_count": 10347
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 60404,
-    "open_issues_count": 2,
-    "forks_count": 5859
+    "stargazers_count": 60462,
+    "open_issues_count": 3,
+    "forks_count": 5865
   },
   {
     "full_name": "FrontendMasters/front-end-handbook",
-    "stargazers_count": 1725,
+    "stargazers_count": 1726,
     "open_issues_count": 14,
     "forks_count": 287
   },
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 347935,
-    "open_issues_count": 190,
-    "forks_count": 28830
+    "stargazers_count": 348123,
+    "open_issues_count": 197,
+    "forks_count": 28862
   }
 ]
